@@ -69,5 +69,5 @@ theme: even
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/saonian/saonian.github.io.git
+  repo: git@github.com:saonian/saonian.github.io.git
   branch: master
