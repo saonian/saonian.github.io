@@ -1,5 +1,5 @@
 ---
-title: 时间会死亡吗？
+title: 时间会“死亡”吗？
 date: 2017-05-11 15:48:57
 categories:
 - Thinking
