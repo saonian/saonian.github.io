@@ -19,3 +19,4 @@ tags:
 
 加油！人间值得，未来可期。
 
+![love](we-re-married/love.jpg)
