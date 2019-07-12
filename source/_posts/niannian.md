@@ -1,6 +1,6 @@
 ---
 title: 年年
-date: 2017-03-17 15:40:08
+date: 2017/03/17 15:40:08
 categories:
 - Living
 tags:

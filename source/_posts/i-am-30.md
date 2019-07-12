@@ -1,6 +1,6 @@
 ---
 title: 30岁
-date: 2017-04-05 22:00:06
+date: 2017/04/05 22:00:06
 categories:
 - Living
 tags:

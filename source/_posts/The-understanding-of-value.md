@@ -1,6 +1,6 @@
 ---
 title: 价值的一点理解
-date: 2017-03-17 14:08:40
+date: 2017/03/17 14:08:40
 categories:
 - Thinking
 tags:

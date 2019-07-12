@@ -1,6 +1,6 @@
 ---
 title: 时间会“死亡”吗？
-date: 2017-05-11 15:48:57
+date: 2017/05/11 15:48:57
 categories:
 - Thinking
 tags:

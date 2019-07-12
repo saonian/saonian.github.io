@@ -1,6 +1,6 @@
 ---
 title: 程序员的样子
-date: 2017-06-16 21:35:36
+date: 2017/06/16 21:35:36
 categories:
 - Living
 tags:

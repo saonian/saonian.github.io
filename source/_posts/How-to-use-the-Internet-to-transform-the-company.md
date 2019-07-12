@@ -1,6 +1,6 @@
 ---
 title: 如何利用互联网改造XX公司
-date: 2017-03-17 13:46:35
+date: 2017/03/17 13:46:35
 categories:
 - Thinking
 tags:

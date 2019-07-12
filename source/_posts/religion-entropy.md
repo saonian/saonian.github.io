@@ -1,6 +1,6 @@
 ---
 title: 记一次世界观刷新之宗教和熵
-date: 2017-05-12 15:15:37
+date: 2017/05/12 15:15:37
 categories:
 - Thinking
 tags:

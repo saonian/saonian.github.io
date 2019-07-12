@@ -1,6 +1,6 @@
 ---
 title: 一种有效的大脑放松方式
-date: 2017-06-06 13:52:43
+date: 2017/06/06 13:52:43
 categories:
 - Living
 tags:

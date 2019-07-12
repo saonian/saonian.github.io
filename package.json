@@ -6,6 +6,7 @@
     "version": "3.8.0"
   },
   "dependencies": {
+    "dtrace": "0.0.0",
     "hexo": "^3.2.0",
     "hexo-asset-image": "0.0.3",
     "hexo-deployer-git": "^0.2.0",
